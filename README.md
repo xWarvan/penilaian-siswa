@@ -122,7 +122,7 @@ Aplikasi ini dikembangkan untuk memudahkan pengelolaan data siswa, guru, kelas, 
 - Logout
 
 # 6. Diagram Relasi Entitas (ERD)
-(ERD terlampir dalam file gambar)
+![ERD](ERD.png)
 
 ---
 
